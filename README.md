@@ -5,7 +5,7 @@ Flappy Bird learned through a Neural Network. Artificial Intelligence practice.
 1) If you don't have it already, get Processing and install it through the link below : 
 https://processing.org/download/
 
-2) Run flappy_bird.pde. 
+2) Run flappy_bird.pde. (Open the file and press 'Ctrl' + 'R')
 
 - Press '4' or '6' to increase / decrease the framerate of the animation. 
 - Press 'S' to save your current best bird in the 'data' folder. 
